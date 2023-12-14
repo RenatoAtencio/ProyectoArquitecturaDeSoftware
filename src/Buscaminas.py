@@ -13,6 +13,7 @@ class Buscaminas:
     def __init__(self):
         self.root = tk.Tk()
         self.root.title("Buscaminas")
+        #razon de 1/5 (minas/dimension)
         self.size = 15
         self.bomb_count = 45
         self.buttons = []
