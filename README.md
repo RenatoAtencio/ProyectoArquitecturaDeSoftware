@@ -17,6 +17,7 @@ O corre la pagina que requiere que se este corriendo el script App.py en /backen
 
     En: /backend
     > python App.py
+    
     En: /
     > npm start
 
